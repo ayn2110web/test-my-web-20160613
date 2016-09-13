@@ -35,7 +35,7 @@
         <li><a href="#" class="DB"><span>關於我們</span></a></li>
         <li id="NewsBtn"><a href="javascript:void(0)" class="DB"><span>最新消息</span></a></li>
         <li id="ProductBtn"><a href="#" class="DB"><span>產品介紹</span></a></li>
-        <li><a href="#" class="DB"><span>聯絡我們</span></a></li>
+        <li><a href="#" class="DB"><span>好吃的秘訣</span></a></li>
       </ul>
     </nav>
   </div>
